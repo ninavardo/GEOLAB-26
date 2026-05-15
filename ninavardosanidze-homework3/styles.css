@@ -1,0 +1,77 @@
+body {
+  font-family: Arial, sans-serif;
+  background-color: rgb(251, 235, 244);
+}
+
+.header-nav {
+  margin-left: 500px;
+}
+
+.list {
+  list-style-type: none;
+}
+
+.item {
+  display: inline;
+  margin-left: 30px;
+}
+
+a {
+  text-decoration: none;
+  color: white;
+  background-color: rgb(95, 95, 198);
+  font-size: 16px;
+}
+
+.wrapper {
+  width: 600px;
+  margin: auto;
+  text-align: center;
+}
+
+.title {
+  color: #14203e;
+  font-size: 50px;
+}
+
+.description {
+  color: #14203e;
+  font-size: 20px;
+}
+
+button {
+  background-color: #14203e;
+  color: white;
+  font-size: 18px;
+}
+
+.blogs {
+  width: 1200px;
+  margin: auto;
+}
+
+.blog-item {
+  width: 250px;
+  display: inline-block;
+  margin-left: 20px;
+}
+
+.blog-item img {
+  width: 250px;
+}
+
+.blog-item h2 {
+  color: #14203e;
+  font-size: 20px;
+  background-color: aliceblue;
+}
+
+.blog-item p {
+  color: gray;
+}
+
+footer {
+  text-align: center;
+  margin-top: 50px;
+  background-color: rgb(250, 245, 236);
+}
