@@ -108,8 +108,7 @@ p {
 .trending {
   width: 1320px;
   height: 505px;
-  margin-left: 100px;
-  margin-top: 60px;
+  margin: 60px auto;
 }
 
 .img-wrapper {
